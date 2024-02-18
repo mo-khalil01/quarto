@@ -5,12 +5,6 @@ commencer le: 19/11/2021 et finis le: 14/01/2022
 crée pour l'évaluation de la SAE 1.1 de 1ère année
 Campus 3 de l'IUT Grand Ouest Normandie
 
-
-!! avant d'entrer les commande veuiller vous placer  !!
-!! dans le repertoire du jeu: /quarto_project_full$       !!
-
-
-
 Commande de compilation a effectuer si "main_affiche.o" n'existe pas:
 
 gcc board.c -c
